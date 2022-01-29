@@ -6,3 +6,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Project: Tensorflow](https://github.com/jovemmanuelre/TensorFlow-Course)
 This is the repository that holds the Tensor Flow course. To view the course materials, go to the issues of this repo. Github Pages!
+
+![project sample image](https://github.com/jovemmanuelre/githubpages-2/blob/main/images/dog.jpeg)
